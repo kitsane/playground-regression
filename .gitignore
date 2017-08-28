@@ -43,3 +43,7 @@ Thumbs.db
 
 # angular-playground
 /src/sandboxes.ts
+
+# backstop
+/backstop_data/bitmaps_test/*
+/backstop_data/html_report/*
